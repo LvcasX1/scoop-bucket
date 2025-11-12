@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lvcasx1/ithil/releases/download/v0.1.1/ithil_0.1.1_Windows_x86_64.zip",
+            "bin": [
+                "ithil.exe"
+            ],
+            "hash": "f211fd0b1e6f444e12283fdc1e8c4c08aaa818b135469d9fca5a8f37ebe2005f"
+        }
+    },
+    "homepage": "https://github.com/lvcasx1/ithil",
+    "license": "MIT",
+    "description": "A Terminal User Interface (TUI) Telegram client built with Go and Bubbletea"
+}
